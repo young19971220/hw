@@ -1,0 +1,10 @@
+{
+    "editor.fontSize": 16,
+    "files.trimTrailingWhitespace": true,
+    "terminal.integrated.fontSize": 16,
+    "window.zoomLevel": 1,
+
+    "[csharp]": {
+        "editor.defaultFormatter": "Leopotam.csharpfixformat"
+    }
+}
